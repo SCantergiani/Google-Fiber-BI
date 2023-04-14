@@ -25,3 +25,7 @@ Total rows: 1350
 
 Download the new consolidated CSV and upload to Tableau.
 
+## Tableau
+
+1) Load the data
+2) Make problem type chart and change name to reflect the problems (Count distinct contacts N)
