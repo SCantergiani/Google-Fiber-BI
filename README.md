@@ -97,7 +97,7 @@ Step 3:
 
 After the query has finished running, we will be able to download the consolidated data as CSV files by using the Save Results dropdown and selecting the appropriate file type.
 
-
+[![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/mIh_P5PaROGgLjGCFRmOrw_4b2aa60ea91d4f04a5535213fae26df1_image.png?expiry=1681862400000&hmac=YQiH32O12ijAS5PXOG7W97nnSdH55Bd2PkcK2WfdX_E)](https://github.com/SCantergiani/Google-Fiber-BI#google-fiber-bi)
 
 Download the new consolidated CSV and upload to Tableau.
 
