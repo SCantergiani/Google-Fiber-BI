@@ -143,6 +143,8 @@ FROM `your project.market_3`
 ```
 *Total rows: 1350
 
+The output is a merged dataset, that can be seen [here](https://github.com/SCantergiani/Google-Fiber-BI/blob/main/Files/Consolidated_Markets.csv)
+
 Step 3: 
 
 After the query has finished running, we will be able to download the consolidated data as CSV files by using the Save Results dropdown and selecting the appropriate file type.
