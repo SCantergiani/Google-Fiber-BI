@@ -12,7 +12,7 @@ The Google Fiber case study  is a capstone project for Google Business Intellige
 
 1. [Project Planning](https://github.com/SCantergiani/Google-Fiber-BI/blob/main/G-Fiber-Case-Study.md#project-planning)
 2. [Data Preparation (ETL)](https://github.com/SCantergiani/Google-Fiber-BI/blob/main/G-Fiber-Case-Study.md#data-preparation-etl)
-3. [Deshboard Design](https://github.com/SCantergiani/Google-Data-Analytics-Certificate/blob/main/SQL%20&%20Power%20BI%20Version/SQL%20&%20Power%20BI%20Version.md#process)
+3. [Deshboard Design](https://github.com/SCantergiani/Google-Fiber-BI/blob/main/G-Fiber-Case-Study.md#dashboard-design)
 
 ### Tools Used
 
