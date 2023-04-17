@@ -33,9 +33,30 @@ Using the case study information to to complete the Stakeholder [Requirements Do
 
 ### Stakeholder Requirements Document
 
+**Primary requirements:**
 
+* A chart or table measuring repeat calls by their first contact date.
+* A chart or table exploring repeat calls by market and problem type.
+* Provide insights into the types of customer issues that seem to generate more repeat 
+calls.
+* Explore repeat caller trends in the three different market cities.
+* Design charts so that stakeholders can view trends by week, month, quarter, and year.
 
 ### Project Requirements Document
+
+**Assumptions:** The case study fictional data has been already anonymized using **market_1, 
+market_2, and market_3** to indicate three different city service areas the data represents. Also 
+lists five problem types:
+
+* Type_1 is account management.
+* Type_2 is technician troubleshooting.
+* Type_3 is scheduling.
+* Type_4 is construction.
+* Type_5 is internet and wifi.
+
+Additionally, the dataset records repeat calls over seven-day periods. The initial contact date is 
+listed as contacts_n. The other call columns are then contacts_n_number of days since first call. 
+For example, contacts_n_6 indicates six days since first contact.
 
 ### Planning Document
 
