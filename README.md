@@ -22,9 +22,9 @@ The Google Fiber case study  is a capstone project for Google Business Intellige
 
 ### Deliverables
 
-•	A chart or table measuring repeat calls by their first contact date
-•	A chart or table exploring repeat calls by market and problem type
-•	Charts showcasing repeat calls by week, month, and quarter
+*	A chart or table measuring repeat calls by their first contact date
+*	A chart or table exploring repeat calls by market and problem type
+*	Charts showcasing repeat calls by week, month, and quarter
 
 
 ## Project Planning
