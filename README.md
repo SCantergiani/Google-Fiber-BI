@@ -29,14 +29,18 @@ The Google Fiber case study  is a capstone project for Google Business Intellige
 
 ## Project Planning
 
-Using the case study information to to complete the Stakeholder Requirements Document, Project Requirements Document, and Planning Document.
+Using the case study information to to complete the Stakeholder [Requirements Document], [Project Requirements Document], and [Planning Document]. Some of the key points of each are:
 
 ### Stakeholder Requirements Document
+
+
 
 ### Project Requirements Document
 
 ### Planning Document
 
+Mockup:
+[![](Images/mockup.jpg)](https://github.com/SCantergiani/Google-Fiber-BI#google-fiber-bi)
 
 ## Data Preparation
 
