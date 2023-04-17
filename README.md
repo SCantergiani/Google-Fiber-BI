@@ -92,7 +92,8 @@ Download the new consolidated CSV and upload to Tableau.
 
 ## Dashboard Design
 
-1) Load the relevant data into Tableau
-2) Make problem type chart and change name to reflect the problems (Count distinct contacts N)
+The live dashboard can be seen [here](https://public.tableau.com/views/GoogleFiber/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+<!-- 1) Load the relevant data into Tableau -->
+<!-- 2) Make problem type chart and change name to reflect the problems (Count distinct contacts N) -->
 
 [![](Images/Dashboard.png)](https://github.com/SCantergiani/Google-Fiber-BI#google-fiber-bi)
