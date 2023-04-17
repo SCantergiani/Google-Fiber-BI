@@ -157,7 +157,7 @@ Now we can upload it to Tableau, and start working into the Dashboard.
 
 Step 1: Load the data into Tableu.
 
-Step 2: Create a [low-fidelity mockup]().
+Step 2: Create a [low-fidelity mockup](https://github.com/SCantergiani/Google-Fiber-BI/blob/main/README.md#planning-document).
 
 The live dashboard can be seen [here](https://public.tableau.com/views/GoogleFiber/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 <!-- 1) Load the relevant data into Tableau -->
