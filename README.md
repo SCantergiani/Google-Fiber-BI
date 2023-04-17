@@ -77,7 +77,7 @@ Step 1: Loading the CSV files into GCP
 
 Step 2:  Querying the data
 
-Because the tables are already cleaned and the columns match, we can use a UNION ALL statement:
+Because the tables are already cleaned and the columns match, we can use a UNION ALL statement. The UNION ALL statement is applied here instead of a JOIN statement because the tables already have matching columns, making them easy to merge completely. 
 
 
 ```sql
@@ -96,8 +96,52 @@ SELECT
 FROM
   `markets.market3`
 ```
+Other method to combine specific rows in case we didn't need all of them, could of been this code:
 
-Total rows: 1350
+```sql
+SELECT
+  date_created,
+  contacts_n,
+  contacts_n_1,
+  contacts_n_2,
+  contacts_n_3,
+  contacts_n_4,
+  contacts_n_5,
+  contacts_n_6,
+  contacts_n_7,
+  new_type,
+  new_market
+FROM `your project.fiber.market_1`
+UNION ALL
+SELECT
+  date_created,
+  contacts_n,
+  contacts_n_1,
+  contacts_n_2,
+  contacts_n_3,
+  contacts_n_4,
+  contacts_n_5,
+  contacts_n_6,
+  contacts_n_7,
+  new_type,
+  new_market
+FROM `your project.fiber.market_2`
+UNION ALL
+SELECT
+  date_created,
+  contacts_n,
+  contacts_n_1,
+  contacts_n_2,
+  contacts_n_3,
+  contacts_n_4,
+  contacts_n_5,
+  contacts_n_6,
+  contacts_n_7,
+  new_type,
+  new_market
+FROM `your project.market_3`
+```
+*Total rows: 1350
 
 Step 3: 
 
