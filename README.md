@@ -20,7 +20,8 @@ The Google Fiber case study  is a capstone project for Google Business Intellige
 * The datasets used can be download [here](https://github.com/SCantergiani/Google-Fiber-BI/tree/main/Files).
 * Link to the Dashboard hosted in Tableau Public can be found [here](https://public.tableau.com/views/GoogleFiber/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link).
 
-## Data Planning
+## Project Planning
+## Data Preparation
 
 Loading the CSV files into GCP
 
@@ -47,9 +48,9 @@ Total rows: 1350
 
 Download the new consolidated CSV and upload to Tableau.
 
-## Tableau
+## Dashboard Design
 
-1) Load the data
+1) Load the relevant data into Tableau
 2) Make problem type chart and change name to reflect the problems (Count distinct contacts N)
 
 [![](Images/Dashboard.png)](https://github.com/SCantergiani/Google-Fiber-BI#google-fiber-bi)
