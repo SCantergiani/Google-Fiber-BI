@@ -16,7 +16,7 @@ The Google Fiber case study  is a capstone project for Google Business Intellige
 
 ### Resources
 
-* Details of the case study can be found [here](https://drive.google.com/file/d/1OviIa6kTO48-rZu8fvniFVScWMq2KSES/view?usp=sharing).
+* Details of the case study can be found [here](https://github.com/SCantergiani/Google-Fiber-BI/blob/main/Docs/GOOGLE%20FIBER%20CASE%20STUDY.pdf).
 * The datasets used can be download [here](https://github.com/SCantergiani/Google-Fiber-BI/tree/main/Files).
 * Link to the Dashboard hosted in Tableau Public can be found [here](https://public.tableau.com/views/GoogleFiber/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link).
 
