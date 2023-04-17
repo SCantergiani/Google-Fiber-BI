@@ -29,3 +29,5 @@ Download the new consolidated CSV and upload to Tableau.
 
 1) Load the data
 2) Make problem type chart and change name to reflect the problems (Count distinct contacts N)
+
+[![](Images/Dashboard.png)](https://github.com/SCantergiani/Google-Fiber-BI#google-fiber-bi)
