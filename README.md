@@ -1,6 +1,6 @@
 # Google-Fiber-BI
 
-The Google Fiber case study  is a capstone project for Google Business Intelligence Professional Course that will go through each step of the BI Process. 
+The Google Fiber case study  is a capstone project for Google Business Intelligence Professional Course that will go through each step of the BI Process. Google Fiber, provides people and businesses with fiber optic internet. The Fiber customer service uses business intelligence to monitor and improve customer satisfaction, and team has asked to design a dashboard using fictional data for this purpose.
 
 ### Table of Contents
 
@@ -20,7 +20,24 @@ The Google Fiber case study  is a capstone project for Google Business Intellige
 * The datasets used can be download [here](https://github.com/SCantergiani/Google-Fiber-BI/tree/main/Files).
 * Link to the Dashboard hosted in Tableau Public can be found [here](https://public.tableau.com/views/GoogleFiber/Dashboard?:language=en-US&:display_count=n&:origin=viz_share_link).
 
+### Deliverables
+
+•	A chart or table measuring repeat calls by their first contact date
+•	A chart or table exploring repeat calls by market and problem type
+•	Charts showcasing repeat calls by week, month, and quarter
+
+
 ## Project Planning
+
+Using the case study information to to complete the Stakeholder Requirements Document, Project Requirements Document, and Planning Document.
+
+### Stakeholder Requirements Document
+
+### Project Requirements Document
+
+### Planning Document
+
+
 ## Data Preparation
 
 Loading the CSV files into GCP
