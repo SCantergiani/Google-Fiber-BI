@@ -159,8 +159,14 @@ Step 1: Load the data into Tableu.
 
 Step 2: Create a [low-fidelity mockup](https://github.com/SCantergiani/Google-Fiber-BI/blob/main/README.md#planning-document).
 
+Step 3: Creating the charts.
+
+Paying close attention to the project goals outlined in your project planning documents. This will ensure that your charts answer stakeholder questions.
+
+Step 4: Organize the Dashboard.
+
 The live dashboard can be seen [here](https://public.tableau.com/views/GoogleFiber/Dashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
-<!-- 1) Load the relevant data into Tableau -->
-<!-- 2) Make problem type chart and change name to reflect the problems (Count distinct contacts N) -->
 
 [![](Images/Dashboard.png)](https://github.com/SCantergiani/Google-Fiber-BI#google-fiber-bi)
+
+Step 5: Make a excecutive summary
