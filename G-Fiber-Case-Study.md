@@ -175,9 +175,11 @@ Step 5: Make a excecutive summary
 
 ### Final Toughts
 
-As stated in the executive summary, there are at least 3 key insights the dashboard provide to the stakeholders.
+As stated in the executive summary, there are at least 3 key insights the dashboard provide to the stakeholders:
 
 1. Mostly the repeat calls occur on day 1 and day 2, and there is a noticeable difference in the following days, which shows that most of the issues are not being resolved in the first contact date, but within the first couple of days.
+
 2. We can clearly see that the most concurrent problems, and the ones that persist the more, are type 5 and type 2.
+
 3. Market 1 constitutes the highest volume of incoming calls, with Market 3 following at approximately 50% of the total calls, and Market 2 at a lower volume.
 
