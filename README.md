@@ -143,7 +143,7 @@ FROM `your project.market_3`
 ```
 *Total rows: 1350
 
-The output is a merged dataset, that can be seen [here](https://github.com/SCantergiani/Google-Fiber-BI/blob/main/Files/Consolidated_Markets.csv)
+The output is a merged dataset, that can be seen [here](https://github.com/SCantergiani/Google-Fiber-BI/blob/main/Files/Consolidated_Markets.csv).
 
 Step 3: 
 
