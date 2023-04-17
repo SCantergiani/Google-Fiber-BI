@@ -171,7 +171,7 @@ The live dashboard can be seen [here](https://public.tableau.com/views/GoogleFib
 
 Step 5: Make a excecutive summary
 
-![](Images/google_fiber_ex_sum.jpg)
+![](Images/Google-Fiber-project-executive-summary.jpg)
 
 ### Final Toughts
 
