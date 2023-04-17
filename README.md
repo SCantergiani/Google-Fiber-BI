@@ -1,4 +1,4 @@
-# Google-Fiber-BI
+# Google-Fiber-BI (WIP)
 
 The Google Fiber case study  is a capstone project for Google Business Intelligence Professional Course that will go through each step of the BI Process. Google Fiber, provides people and businesses with fiber optic internet. The Fiber customer service uses business intelligence to monitor and improve customer satisfaction, and team has asked to design a dashboard using fictional data for this purpose.
 
