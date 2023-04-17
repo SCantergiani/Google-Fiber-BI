@@ -1,4 +1,4 @@
-# Google-Fiber-BI (WIP)
+# Google-Fiber-BI
 
 <br>
 
