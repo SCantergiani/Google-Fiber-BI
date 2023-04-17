@@ -170,3 +170,5 @@ The live dashboard can be seen [here](https://public.tableau.com/views/GoogleFib
 [![](Images/Dashboard.png)](https://github.com/SCantergiani/Google-Fiber-BI#google-fiber-bi)
 
 Step 5: Make a excecutive summary
+
+![](Images/google_fiber_ex_sum.jpg)
