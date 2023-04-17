@@ -11,7 +11,7 @@ The Google Fiber case study  is a capstone project for Google Business Intellige
 ### Table of Contents
 
 1. [Project Planning](https://github.com/SCantergiani/Google-Data-Analytics-Certificate/blob/main/SQL%20&%20Power%20BI%20Version/SQL%20&%20Power%20BI%20Version.md#ask)
-2. [Data Preparation](https://github.com/SCantergiani/Google-Data-Analytics-Certificate/blob/main/SQL%20&%20Power%20BI%20Version/SQL%20&%20Power%20BI%20Version.md#prepare)
+2. [Data Preparation (ETL)](https://github.com/SCantergiani/Google-Data-Analytics-Certificate/blob/main/SQL%20&%20Power%20BI%20Version/SQL%20&%20Power%20BI%20Version.md#prepare)
 3. [Deshboard Design](https://github.com/SCantergiani/Google-Data-Analytics-Certificate/blob/main/SQL%20&%20Power%20BI%20Version/SQL%20&%20Power%20BI%20Version.md#process)
 
 ### Tools Used
@@ -69,7 +69,7 @@ For example, contacts_n_6 indicates six days since first contact.
 Mockup:
 [![](Images/mockup.jpg)](https://github.com/SCantergiani/Google-Fiber-BI#google-fiber-bi)
 
-## Data Preparation
+## Data Preparation (ETL)
 
 Step 1: Loading the CSV files into GCP
 
@@ -105,7 +105,7 @@ After the query has finished running, we will be able to download the consolidat
 
 [![](https://d3c33hcgiwev3.cloudfront.net/imageAssetProxy.v1/mIh_P5PaROGgLjGCFRmOrw_4b2aa60ea91d4f04a5535213fae26df1_image.png?expiry=1681862400000&hmac=YQiH32O12ijAS5PXOG7W97nnSdH55Bd2PkcK2WfdX_E)](https://github.com/SCantergiani/Google-Fiber-BI#google-fiber-bi)
 
-Download the new consolidated CSV and upload to Tableau.
+Now we can upload it to Tableau, and start working into the Dashboard.
 
 ## Dashboard Design
 
