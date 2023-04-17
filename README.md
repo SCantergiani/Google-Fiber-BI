@@ -65,9 +65,14 @@ Mockup:
 
 ## Data Preparation
 
-Loading the CSV files into GCP
+Step 1: Loading the CSV files into GCP
 
-Merging tables
+[![](https://i.ibb.co/2Z5cYPb/Whats-App-Image-2023-04-17-at-12-11-42.jpg)](https://github.com/SCantergiani/Google-Fiber-BI#google-fiber-bi)
+
+Step 2:  Querying the data
+
+Because the tables are already cleaned and the columns match, we can use a UNION ALL statement:
+
 
 ```sql
 SELECT
@@ -87,6 +92,12 @@ FROM
 ```
 
 Total rows: 1350
+
+Step 3: 
+
+After the query has finished running, we will be able to download the consolidated data as CSV files by using the Save Results dropdown and selecting the appropriate file type.
+
+
 
 Download the new consolidated CSV and upload to Tableau.
 
