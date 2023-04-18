@@ -1,10 +1,16 @@
-# Google-Fiber-BI
+# BI Project: Google Fiber Case Study
 
 <br>
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Google-Fiber.png"  height="40">](https://github.com/SCantergiani/Google-Fiber-BI#google-fiber-bi)
 
 <br>
+
+Business Intelligence Analyst: Sebastián Cantergiani
+
+Date: April 2023
+
+### Context
 
 The Google Fiber case study  is a capstone project for Google Business Intelligence Professional Course that will go through each step of the BI Process. Google Fiber, provides people and businesses with fiber optic internet. The Fiber customer service uses business intelligence to monitor and improve customer satisfaction, and team has asked to design a dashboard using fictional data for this purpose.
 
